@@ -55,8 +55,8 @@ Finance APIs, Time Series Modeling, Web Dev, Data Engineering
 ---
 
 ## 📫 Let's Connect
+- [🔗 LinkedIn](https://www.linkedin.com/in/brian-jonghoon-lee-frm-caia-a96438199/)
 
-[🔗 LinkedIn](https://www.linkedin.com/in/brian-jonghoon-lee-frm-caia-a96438199/)
 ---
 ## ✨ Special Repository
 
