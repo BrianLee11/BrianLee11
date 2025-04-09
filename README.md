@@ -2,7 +2,7 @@
 
 🎓 MS in Computer Engineering @ NYU  
 💡 Passionate about bridging **finance and programming**  
-🧠 Focused on **Machine Learning**, **Deep Learning**, and **Quantitative Development**
+🧠 Focused on **Quantitative Development**, **Machine Learning**, **Deep Learning**, and more.
 
 ---
 
