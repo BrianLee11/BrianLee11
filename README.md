@@ -54,13 +54,13 @@ Finance APIs, Time Series Modeling, Web Dev, Data Engineering
 
 ---
 
+## 📫 Let's Connect
+
+[🔗 LinkedIn](https://www.linkedin.com/in/brian-jonghoon-lee-frm-caia-a96438199/)
+---
 ## ✨ Special Repository
 
 - [🌟 Profile Repository (this page)](https://github.com/BrianLee11/BrianLee11)  
   You're looking at it! 👀 This is my GitHub profile README.
 
----
 
-## 📫 Let's Connect
-
-[🔗 LinkedIn](https://www.linkedin.com/in/brian-jonghoon-lee-frm-caia-a96438199/)
