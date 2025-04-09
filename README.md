@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Brian!
 
-<!--
-**BrianLee11/BrianLee11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering MS student @ NYU  
+Specializing in:  
+- 🧠 Machine Learning & Deep Learning  
+- 💻 Quantitative Development  
+- 📊 Data Science & Programming Bootcamps  
 
-Here are some ideas to get you started:
+## 📌 Featured Projects
+- [🛠 codingPractice](https://github.com/BrianLee11/codingPractice)
+- [📊 LeetCode Explanations](https://github.com/BrianLee11/LeetCode)
+- [📚 BootCamp Notes](https://github.com/BrianLee11/BootCamp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+[🔗 LinkedIn](https://www.linkedin.com/in/brian-jonghoon-lee-frm-caia-a96438199/)
