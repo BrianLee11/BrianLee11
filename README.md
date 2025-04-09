@@ -30,7 +30,7 @@ Finance APIs, Time Series Modeling, Web Dev, Data Engineering
 ## 📌 Featured & Personal Projects
 
 - [🧠 codingPractice](https://github.com/BrianLee11/codingPractice)  
-  Multi-language coding practices in Python, Java, C#, and C++
+  Multi-language coding practices in Python, Java, C#, C++, R, JSon, and more.
 
 - [📚 BootCamp Notes](https://github.com/BrianLee11/BootCamp)  
   Programming & data science notes from bootcamps and courses
