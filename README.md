@@ -32,7 +32,7 @@ Finance APIs, Time Series Modeling, Web Dev, Data Engineering
 - [🧠 codingPractice](https://github.com/BrianLee11/codingPractice)  
   Multi-language coding practices in Python, Java, C#, C++, R, JSon, and more.
 
-- [📚 BootCamp Notes](https://github.com/BrianLee11/BootCamp)  
+- [📚 BootCamp Notes, Assignments, and Projects](https://github.com/BrianLee11/BootCamp)  
   Programming & data science notes from bootcamps and courses
 
 - [📊 LeetCode Explanations](https://github.com/BrianLee11/LeetCode)  
