@@ -10,8 +10,10 @@
 
 **Languages & Tools:**  
 `Python` | `R` | `Java` | `C#` | `C/C++` | `SQL`  
+
 **Frameworks:**  
 Flask (learning Django + React)  
+
 **Other Interests:**  
 Finance APIs, Time Series Modeling, Web Dev, Data Engineering
 
