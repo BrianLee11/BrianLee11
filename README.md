@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Brian Lee!
 
-🎓 M.S. in Computer Engineering @ NYU  
+🎓 M.S. in Computer Engineering @ NYU (New York University)  
 📈 Former fixed income portfolio manager with years of real-world finance experience  
 💡 Passionate about integrating **finance and technology** through thoughtful engineering  
 🧠 Focused on **Quantitative Development**, **Machine Learning**, and **Deep Learning**
