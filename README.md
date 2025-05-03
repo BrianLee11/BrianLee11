@@ -43,15 +43,17 @@ Finance APIs, Time Series Modeling, Web Dev, Data Engineering
 
 ## 🤝 Group Projects in Progress
 
-- 🌍 [**Air Quality in India** (NYU Data Science BootCamp)](https://github.com/BrianLee11/BootCamp/tree/main/NYU_Data_Science_Bootcamp/Group_Projects/4_Final_version)  
-  Large-scale time series & spatial analysis of India's air pollution
-
 - 🧾 [**Web Service for US SEC 10-Q**](https://github.com/BrianLee11/accountingApp)  
   Extracting and organizing financial data from SEC reports
 
 - 🧱 [**Web Service for Data Engineering**](https://github.com/BrianLee11/DataScienceWebsite)  
   Full-stack pipeline for data ingestion, processing, and display
 
+---
+## Group Projects Finished
+
+- 🌍 [**Air Quality in India** (NYU Data Science BootCamp)](https://github.com/BrianLee11/BootCamp/tree/main/NYU_Data_Science_Bootcamp/Group_Projects/4_Final_version)  
+  Large-scale time series & spatial analysis of India's air pollution
 ---
 
 ## 📫 Let's Connect
