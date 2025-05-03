@@ -50,7 +50,7 @@ Finance APIs, Time Series Modeling, Web Dev, Data Engineering
   Full-stack pipeline for data ingestion, processing, and display
 
 ---
-## Group Projects Finished
+## 🤝 Group Projects Finished
 
 - [**Air Quality in India** (NYU Data Science BootCamp)](https://github.com/BrianLee11/BootCamp/tree/main/NYU_Data_Science_Bootcamp/Group_Projects/4_Final_version)  
   Large-scale time series & spatial analysis of India's air pollution
