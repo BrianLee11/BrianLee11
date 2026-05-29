@@ -1,68 +1,79 @@
-# 👋 Hi there, I'm Brian Lee!
+# Hi, I'm Brian Lee
 
-M.S. in Computer Engineering @ NYU (New York University)  
-Former fixed income portfolio manager with years of real-world finance experience  
-Passionate about integrating **finance and technology** through thoughtful engineering  
-Focused on **Quantitative Development**, **Machine Learning**, and **Deep Learning**
+I am a software developer with a finance background, building practical systems at the intersection of engineering, data, and financial workflows.
 
----
-
-## 💼 Tech Stack & Skills
-
-**Languages & Tools:**  
-`Python` | `R` | `Java` | `C#` | `C/C++` | `SQL`  
-
-**Frameworks:**  
-Flask (learning Django + React)  
-
-**Other Interests:**  
-Finance APIs, Time Series Modeling, Web Dev, Data Engineering
+- M.S. in Computer Engineering, New York University, May 2025
+- Former fixed income portfolio manager with real-world markets experience
+- Currently focused on software engineering, full-stack development, algorithms, and financial technology
+- Actively strengthening CS fundamentals through Java, Python, C/C++, SQL, and web development
 
 ---
 
-## 🚀 Currently Exploring
+## Current Direction
 
-- **Django**, **React**
-- JavaScript for modern front-end development
-- Real-world data projects (SEC filings, air quality)
+I am no longer positioning this profile around machine learning as my main focus. My recent work is moving toward:
+
+- Data structures, algorithms, and problem-solving practice
+- Backend and full-stack application development
+- Financial data tools and workflow automation
+- Java, OOP, SQL, Python, C/C++, and practical system design
+- Clean project organization and steady learning documentation
 
 ---
 
-## 📌 Featured & Personal Projects
+## Technical Stack
 
-- [BootCamp Notes, Assignments, and Projects](https://github.com/BrianLee11/BootCamp)  
-  Programming & data science notes from bootcamps and courses
+**Languages**  
+`Python` | `Java` | `C#` | `C/C++` | `SQL` | `JavaScript` | `R`
 
-- [LeetCode Explanations](https://github.com/BrianLee11/LeetCode)  
-  My structured solutions and thought processes for LeetCode problems
+**Web & Backend**  
+`Flask` | `Django` | `React` | REST APIs | authentication systems | data pipelines
 
+**Core Interests**  
+Algorithms, backend services, financial data, data engineering, full-stack applications, and developer productivity tools.
+
+---
+
+## Recently Active Work
+
+- [neetcode-submission](https://github.com/BrianLee11/neetcode-submission)  
+  NeetCode problem submissions and structured coding practice.
 
 - [codingPractice](https://github.com/BrianLee11/codingPractice)  
-  Multi-language coding practices in Python, Java, C#, C++, R, JSon, and more.
----
+  Multi-language practice across Python, Java, C#, C/C++, HTML, and related tools.
 
-## 🤝 Group Projects in Progress
+- [algorithmPractice](https://github.com/BrianLee11/algorithmPractice)  
+  Algorithm and problem-solving practice, with recent work in C++.
 
-- [**Web Service for US SEC 10-Q**](https://github.com/BrianLee11/accountingApp)  
-  Extracting and organizing financial data from SEC reports
-
-- [**Web Service for Data Engineering**](https://github.com/BrianLee11/DataScienceWebsite)  
-  Full-stack pipeline for data ingestion, processing, and display
+- [BootCamp](https://github.com/BrianLee11/BootCamp)  
+  Notes, assignments, and projects from programming, data, and web development bootcamps.
 
 ---
-## 🤝 Group Projects Finished
 
-- [**Air Quality in India** (NYU Data Science BootCamp)](https://github.com/BrianLee11/BootCamp/tree/main/NYU_Data_Science_Bootcamp/Group_Projects/4_Final_version)  
-  Large-scale time series & spatial analysis of India's air pollution
+## Selected Projects
+
+- [accountingApp](https://github.com/BrianLee11/accountingApp)  
+  Collaborative financial data application focused on accounting and SEC-report workflows.
+
+- [DataScienceWebsite](https://github.com/BrianLee11/DataScienceWebsite)  
+  Web project for data ingestion, processing, and display.
+
+- [NYU_DS_group_project](https://github.com/BrianLee11/NYU_DS_group_project)  
+  NYU Data Science Bootcamp group project archive.
+
+- [LeetCode](https://github.com/BrianLee11/LeetCode)  
+  Structured LeetCode explanations and problem-solving notes.
+
 ---
 
-## 📫 Let's Connect
-- [🔗 LinkedIn](https://www.linkedin.com/in/brian-jonghoon-lee-frm-caia-a96438199/)
+## Background
+
+Before focusing on software development, I worked in fixed income portfolio management. That experience still shapes the way I approach engineering: I like systems that are reliable, measurable, and useful in real decision-making contexts.
+
+I earned my master's degree in Computer Engineering from NYU in May 2025.
 
 ---
-## ✨ Special Repository
 
-- [Profile Repository (this page)](https://github.com/BrianLee11/BrianLee11)  
-  You're looking at it! 👀 This is my GitHub profile README.
+## Connect
 
-
+- [LinkedIn](https://www.linkedin.com/in/brian-jonghoon-lee-frm-caia-a96438199/)
