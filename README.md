@@ -24,7 +24,7 @@ I am no longer positioning this profile around machine learning as my main focus
 ## Technical Stack
 
 **Languages**  
-`Python` | `Java` | `C#` | `C/C++` | `SQL` | `JavaScript` | `R`
+`Python` | `Java` | `C#` | `C/C++` | `SQL`
 
 **Web & Backend**  
 `Flask` | `Django` | `React` | REST APIs | authentication systems | data pipelines
