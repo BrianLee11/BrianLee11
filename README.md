@@ -33,7 +33,7 @@ Algorithms, backend services, financial data, data engineering, full-stack appli
 
 ## Recently Active Work
 
-- [neetcode-submission](https://github.com/BrianLee11/neetcode-submission) (prviate)
+- [neetcode-submission](https://github.com/BrianLee11/neetcode-submission)
   NeetCode problem submissions and structured coding practice.
 
 - [codingPractice](https://github.com/BrianLee11/codingPractice)  
