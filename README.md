@@ -24,7 +24,7 @@ I am no longer positioning this profile around machine learning as my main focus
 ## Technical Stack
 
 **Languages**  
-`Python` | `Java` | `C#` | `C/C++` | `SQL`
+`Python` | `Java` | `C/C++` | `SQL`
 
 **Core Interests**  
 Algorithms, backend services, financial data, data engineering, full-stack applications, and developer productivity tools.
