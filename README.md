@@ -69,4 +69,4 @@ I earned my master's degree in Computer Engineering from NYU in May 2025.
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/brian-jonghoon-lee-frm-caia-a96438199/)
+- [LinkedIn](https://www.linkedin.com/in/brian-lee-frm-caia-a96438199/)
